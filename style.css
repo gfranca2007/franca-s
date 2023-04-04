@@ -36,3 +36,24 @@ body{
     altura : 146px ;
     
     plano de fundo : Gradiente linear54,11% , rgba ( 0 , 0 , 0 , 0 ) 100% )( 180 graus , #000000 54,11% , rgba ( 0 , 0 , 0 , 0 ) 100% )  ;}
+    . imagem {posição : absoluta ;
+        largura : 165px ;
+        altura : 146px ;
+        
+        plano de fundo : url54,11% , rgba ( 0 , 0 , 0 , 0 ) 100% )54,11% , rgba ( 0 , 0 , 0 , 0 ) 100% )( IMG-20230319-WA0000.jpg ) ;}
+        . texto {
+            posição : absoluta ;
+            largura : 880px ;
+            altura : 39px ;
+            
+            font-family : 'Inter' ;
+            estilo da fonte : normal ;
+            peso da fonte : 400 ;
+            tamanho da fonte : 32px ;
+            altura da linha : 39px ;
+            /* idêntico à altura da caixa */
+            
+            
+            cor : #000000 ;
+            
+            }
