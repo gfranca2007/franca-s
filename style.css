@@ -36,3 +36,16 @@ largura : 117px ;
 altura : 105px ;
 
 plano de fundo : url ( IMG-20230319-WA0000.jpg ) ;
+posição : absoluta ;
+largura : 874px ;
+altura : 39px ;
+
+font-family : 'Inter' ;
+estilo da fonte : normal ;
+peso da fonte : 400 ;
+tamanho da fonte : 32px ;
+altura da linha : 39px ;
+/* idêntico à altura da caixa */
+
+
+cor : #00FFF0 ;
