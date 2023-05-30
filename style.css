@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(252, 252, 252);
+    background-color:rgba(160, 149, 100);
     font-family: 'Lucida Sans';
     font-size: small;
     color: #fdfdfd;
@@ -31,6 +31,3 @@ body{
     .itens {
     background-color: rgb(211, 204, 174);
     }
-    position: absolute;
-width: 165px;
-height: 146px;
