@@ -15,3 +15,25 @@ font-size: 20px;
 font-family: Inter;
 
 }
+.cabecalho{
+    width: 1440px;
+height: 170px;
+flex-shrink: 0;
+background: #F00;
+}
+.cabecalhoimagem{
+    width: 205px;
+height: 168px;
+flex-shrink: 0;
+}
+.cabecalho-texto1{
+    width: 598px;
+height: 39px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
