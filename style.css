@@ -37,3 +37,41 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
+.cabecalho-texto2{
+    width: 801px;
+height: 71px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.corpo{
+    width: 1440px;
+height: 628px;
+flex-shrink: 0;
+background: #000;
+}
+.corpotexto{
+    width: 801px;
+height: 71px;
+flex-shrink: 0;
+color: #FFF;
+font-family: Inter;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.corpoimg1{
+    width: 189px;
+height: 163px;
+flex-shrink: 0;
+}
+.corpoimg2{
+    width: 189px;
+height: 163px;
+flex-shrink: 0;
+}
